@@ -1,0 +1,34 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Test coverage reports
+htmlcov/
+*.cover
+*.py,cover
+.coverage
+.coverage.*
+
+# Distribution files
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
